@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-As an Automation Software Tester, I specialize in API, UI, and CI/CD testing. I help companies increase quality in any aspect by sharing testing knowledge and enhancing team processes and  building effective automation solutions.
+As an Automation Software Tester, I specialize in API, UI, and CI/CD testing. I help companies increase quality in any aspect by sharing testing knowledge, enhancing team processes and  building effective automation solutions.
 
 ## 🌐 Socials:
 
