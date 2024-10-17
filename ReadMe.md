@@ -4,7 +4,7 @@ As an Automation Software Tester, I specialize in API, UI, and CI/CD testing. he
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-to-van-26071/) [![Leetcode]( https://img.shields.io/badge/-LeetCode-FFA116?style=&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tvquangcs/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tvquangcs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-to-van-26071/) [![Leetcode]( https://img.shields.io/badge/-LeetCode-FFA116?style=&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tvquangcs/)
 
 ## 💻 Tech Stack:
 
