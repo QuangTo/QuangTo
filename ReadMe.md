@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-As a Software Test Engineer focus on automation, I specialize in API, UI, and CI/CD testing. Helping team to increase quality in any aspect by sharing testing knowledge to the team and building effective solutions.
+As a Software Test Engineer focus on automation, I specialize in API, UI, and CI/CD testing. Helping team to increase quality by applying shiftleft, shiftright in any aspect, Sharing testing knowledge to the team and building effective solutions.
 
 ## 🌐 Socials:
 
